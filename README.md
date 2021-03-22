@@ -22,7 +22,7 @@ As Docker Hub has recently changed their rules around container registry storage
 To build the container, simply clone and run docker build.
 
 ```bash
-git clone https://github.com/ozskywalker/drmm-agent
+git clone https://github.com/ozskywalker/drmm-docker
 cd drmm-docker
 docker build -t ozskywalker/drmm-agent .
 ```
