@@ -65,6 +65,6 @@ Issues can be lodged, however as no warranty or support is provided with this de
 
 ## Screenshots
 
-![containerized agent in site device list] (docs/01_agent_in_site_device_list.png)
-![containerized agent details] (docs/02_agent_details.png)
-![executing remote commands] (docs/03_agentbrowser_remotecommands.png)
+![containerized agent in site device list](docs/01_agent_in_site_device_list.png)
+![containerized agent details](docs/02_agent_details.png)
+![executing remote commands](docs/03_agentbrowser_remotecommands.png)
