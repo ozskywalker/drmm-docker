@@ -35,8 +35,6 @@ docker build -t ozskywalker/drmm-agent .
 4. Grab the download link for the linux agent
 5. Extract the GUID from the download link.
 
-NB: GUIDs typically look like `4bd37199-1793-47be-bf07-cb0ca7a60631`
-
 ## Running the container
 
 A few brief notes:
